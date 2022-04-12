@@ -1,0 +1,78 @@
+* {
+  text-align: center;
+  font-family: 'PoppinsRegular'; }
+
+body {
+  background-size: cover; 
+  margin:0; }
+
+
+#header {
+  position: fixed;
+  top:0;
+  width: 100%;
+  left:0px; }
+
+#title {
+  font-family: 'NowRegular'; 
+  font-size: 50px;
+  font-style: normal;
+  color: white;
+  background-color: black;
+  position: absolute;
+  margin-top:0px;
+  width:100%; }
+
+li {
+  display: inline; }
+
+li a {
+  font-family: 'LatoRegular';
+  font-size: 20px;
+  color: black;
+  padding: 40px;
+  text-decoration: none; }
+
+#logo {
+  margin-top:10%;
+  font-size:50px;
+  top:0;
+  width: 100%;
+  left:0px; }
+
+#menu {
+  border-bottom-style: solid;
+  border-width:thin;
+  border-color:black;
+  margin-top:68px;
+  width: 100%;
+  position: absolute;
+  background-color: white;
+  padding: 0.2em 0; }
+
+#header p{
+  top: 0;
+}
+
+#header img{
+  margin-top:3%;
+}
+
+.thankyou{
+  margin:0;
+  font-size: 150px;
+  font-family:'TT2020BaseRegular';
+  color: black; }
+
+#footer {
+  clear: both;
+  position: relative;
+  background-color: #FAF0E6;
+  padding-top: 1px; }
+
+.signature {
+  background-color:black;
+  padding-left: 10px;
+  margin:0;
+  color: white;
+  text-align: left; }
